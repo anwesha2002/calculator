@@ -42,7 +42,7 @@ To get a local copy of the calculator project up and running on your machine, fo
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/calculator-project.git
+   git clone https://github.com/anwesha2002/calculator.git
 2. Navigate to the project directory
 3. open the file in browser.
 
