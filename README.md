@@ -44,7 +44,7 @@ To get a local copy of the calculator project up and running on your machine, fo
    ```sh
    git clone https://github.com/anwesha2002/calculator.git
 2. Navigate to the project directory
-3. open the file in browser.
+3. Open the file in browser.
 
 ### Contributing
 
