@@ -10,7 +10,6 @@ This is a simple calculator project implemented in HTML5 and JS. It performs bas
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage Examples](#usage-examples)
 - [Contributing](#contributing)
 
 ## Introduction
